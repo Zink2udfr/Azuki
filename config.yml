@@ -38,5 +38,5 @@ SessionExpires: "7d" # How long should a session be valid
 # WEBSERVER
 # You must not leave them as blank!
 # ===========================================================================
-baseURL: "https://vercel.com/zink2udfrs-projects/azuki/4UpvHCnrmjxh3RSg8MXxcrkS4Gfu" # The exact URL you use to access the website, No trailing slashes
+baseURL: "https://azuki-six.vercel.app/" # The exact URL you use to access the website, No trailing slashes
 Port: 3000 # The port you want the webserver to be ran on

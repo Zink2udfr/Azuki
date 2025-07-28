@@ -30,7 +30,7 @@ callbackURL: "http://localhost:3000/auth/discord/callback" # Create a Redirect U
 
 secretKey: "uNLmkcssGY3as1k8s0mj" # This can be anything, We recommend using this https://www.dashlane.com/features/password-generator with at least 20 characters, ({{USERNAME}})
 
-Secure: false # Enable if you are using HTTPS
+Secure: true # Enable if you are using HTTPS
 trustProxy: false # Enable If your application is behind a reverse proxy (like Cloudflare, Nginx, etc.)
 SessionExpires: "7d" # How long should a session be valid
 
@@ -38,5 +38,5 @@ SessionExpires: "7d" # How long should a session be valid
 # WEBSERVER
 # You must not leave them as blank!
 # ===========================================================================
-baseURL: "http://localhost:3000" # The exact URL you use to access the website, No trailing slashes
+baseURL: "https://vercel.com/zink2udfrs-projects/azuki/4UpvHCnrmjxh3RSg8MXxcrkS4Gfu" # The exact URL you use to access the website, No trailing slashes
 Port: 3000 # The port you want the webserver to be ran on

@@ -26,7 +26,7 @@ autoJoinUsers: true # Should users automatically get added to your Discord serve
 # Note: MAKE SURE TO REPLACE LOCALHOST:3000 WITH THE DOMAIN OR IP YOU ACCESS THE WEBSITE WITH!
 clientID: "CLIENT_ID"
 clientSecret: "CLIENT_SECRET"
-callbackURL: "http://localhost:3000/auth/discord/callback" # Create a Redirect URL in the Developer Portal and set it to this callback URL
+callbackURL: "https://azuki-six.vercel.app/auth/discord/callback" # Create a Redirect URL in the Developer Portal and set it to this callback URL
 
 secretKey: "uNLmkcssGY3as1k8s0mj" # This can be anything, We recommend using this https://www.dashlane.com/features/password-generator with at least 20 characters, ({{USERNAME}})
 

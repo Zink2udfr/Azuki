@@ -4,7 +4,7 @@
 # Discord: https://discord.gg/plexdev
 # Documentation: https://docs.plexdevelopment.net/
 # ===========================================================================
-MongoURI: "CONNECTION_URL"
+MongoURI: "mongodb+srv://masonchancel123:<9mVMsDPwpUN0i1uF>@cluster0.qtnebvb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DebugMode: true
 
 OwnerID: ["DISCORD_USER_ID", "DISCORD_USER_ID"] # The Discord User ID's that will have full access, you can add multiple

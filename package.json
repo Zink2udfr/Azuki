@@ -26,6 +26,7 @@
     "multer": "^1.4.5-lts.1",
     "parse-duration": "^1.1.1",
     "passport": "^0.7.0",
-    "passport-discord": "^0.1.4"
+    "passport-discord": "^0.1.4",
+    "next": "^18.0.0"
   }
 }

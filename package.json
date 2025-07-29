@@ -24,6 +24,6 @@
     "parse-duration": "^1.1.1",
     "passport": "^0.7.0",
     "passport-discord": "^0.1.4",
-    "node": "^18.20.8"
+    "next": "14.20.0"
   }
 }
